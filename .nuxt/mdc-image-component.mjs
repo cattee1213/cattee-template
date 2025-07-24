@@ -1,1 +1,0 @@
-export { default } from "/Users/xiaoshangfei/SourceCode/Personal/cattee-template/node_modules/.pnpm/@nuxt+image@1.10.0/node_modules/@nuxt/image/dist/runtime/components/NuxtImg.vue"
